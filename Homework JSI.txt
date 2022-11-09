@@ -1,0 +1,18 @@
+Variables.
+Una variable es un contenedor en el que se puede almacenar valores.
+
+Strings.
+Una string es un tipo de dato primitivo de JavaScript. Son variables donde se almacena texto, es decir cualquier combinacion o cantidad de caracteres.
+
+Funciones (argumentos, return).
+Una Funcion es un bloque de codigo diseñado para que realice una tarea en particular.
+Un Argumento es un valor real pasado como input a una funcion.
+"Return" es una palabra clave reservada que se usa para terminar con la ejecucion de una funcion o bloque de codigo.
+
+Declaraciones if.
+Cuando declaramos estamos creando una variable sin asignarle un valor.
+If se utiliza en el control flow para verificar que algo es true, y ya sea ejecutando el codigo suministrado si es asi o avanzando si no lo es.
+
+Valores booleanos (true, false).
+Un Booleano es un tipo de dato que solo puede tener dos posibles valores: verdadero o falso.
+Los valores posibles solo son estos debido a que uno le indica a la consola si el codigo debe seguir ejecutandose o si debe avanzar segun que valor arroje el codigo.
